@@ -13,3 +13,8 @@
 ### Fun fact 
 I was part of kids tv reality show when I was 8 years old 📺. 
 It was called Guerreritos🐅
+
+## 3 Reposatories I liked
+- ⭐
+- ⭐
+- ⭐ 
