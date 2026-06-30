@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me 💯
 
-<!--
-**JuanSebastianOrtizPerez/JuanSebastianOrtizPerez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills I am learning ☑️
+- HTML 🕸️
+- Python 💻
+- Figma 🖱️
 
-Here are some ideas to get you started:
+### Interests/Hobbies 🙂
+- I like everything soccer releated, from playing to watching it ⚽
+- I like playing the guitar 🎸
+- I love everything superheroes releated 🦸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun fact 
+I was part of kids tv reality show when I was 8 years old 📺. 
+It was called Guerreritos🐅
